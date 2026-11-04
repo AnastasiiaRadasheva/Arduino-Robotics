@@ -1,4 +1,14 @@
-# Arduino Robotics Projects
+<div align="center">
+
+# 🤖 Arduino Robotics
+
+**8 hardware projects: from a traffic light to a smart parking lot**
+
+<img src="https://img.shields.io/badge/Arduino-0d1b2a?style=for-the-badge&logo=arduino&logoColor=7aa2f7" /> <img src="https://img.shields.io/badge/C%2B%2B-0d1b2a?style=for-the-badge&logo=cplusplus&logoColor=7aa2f7" /> <img src="https://img.shields.io/badge/Tinkercad-0d1b2a?style=for-the-badge&logo=autodesk&logoColor=7aa2f7" /> <img src="https://img.shields.io/badge/YouTube_demos-0d1b2a?style=for-the-badge&logo=youtube&logoColor=7aa2f7" />
+
+</div>
+
+---
 
 Arduino projects from my robotics course at Tallinna Tööstushariduskeskus.
 Each project was first built and tested in Tinkercad and then assembled on a real Arduino Uno.
