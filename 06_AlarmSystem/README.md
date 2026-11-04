@@ -10,7 +10,7 @@ It works only in the dark. If the temperature leaves the safe range, a buzzer pl
 
 [![Video](https://img.youtube.com/vi/VYIe20I3tPg/hqdefault.jpg)](https://www.youtube.com/watch?v=VYIe20I3tPg)
 
-▶️ [Watch on YouTube](https://www.youtube.com/watch?v=VYIe20I3tPg) · 🔌 [Open circuit in Tinkercad](https://www.tinkercad.com/things/dPe9puyrKq9-daring-amberis-jaban)
+[Watch on YouTube](https://www.youtube.com/watch?v=VYIe20I3tPg) · [Open circuit in Tinkercad](https://www.tinkercad.com/things/dPe9puyrKq9-daring-amberis-jaban)
 
 ## Circuit
 

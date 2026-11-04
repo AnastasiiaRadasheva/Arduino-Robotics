@@ -12,7 +12,7 @@ The LCD shows whether the bin is open or closed, and an RGB LED turns green or r
 
 [![Video](https://img.youtube.com/vi/4bFT4Nq2XqU/hqdefault.jpg)](https://www.youtube.com/watch?v=4bFT4Nq2XqU)
 
-▶️ [Watch on YouTube](https://www.youtube.com/watch?v=4bFT4Nq2XqU)
+[Watch on YouTube](https://www.youtube.com/watch?v=4bFT4Nq2XqU)
 
 ## Circuit
 

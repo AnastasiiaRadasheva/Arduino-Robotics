@@ -10,7 +10,7 @@ and a photoresistor (LDR) measures room light to control the LED.
 
 [![Video](https://img.youtube.com/vi/kXCbUpjKoV8/hqdefault.jpg)](https://www.youtube.com/watch?v=kXCbUpjKoV8)
 
-▶️ [Watch on YouTube](https://www.youtube.com/watch?v=kXCbUpjKoV8) · 🔌 [Open circuit in Tinkercad](https://www.tinkercad.com/things/dmhElNEhMC3-super-sango)
+[Watch on YouTube](https://www.youtube.com/watch?v=kXCbUpjKoV8) · [Open circuit in Tinkercad](https://www.tinkercad.com/things/dmhElNEhMC3-super-sango)
 
 ## Circuit
 

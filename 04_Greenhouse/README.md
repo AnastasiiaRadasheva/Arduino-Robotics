@@ -11,7 +11,7 @@ A photoresistor turns on the light when it gets dark.
 
 [![Video](https://img.youtube.com/vi/n6NPtWs6Cvc/hqdefault.jpg)](https://www.youtube.com/watch?v=n6NPtWs6Cvc)
 
-▶️ [Watch on YouTube](https://www.youtube.com/watch?v=n6NPtWs6Cvc) · 🔌 [Open circuit in Tinkercad](https://www.tinkercad.com/things/3JhxidDXPrc-parnik)
+[Watch on YouTube](https://www.youtube.com/watch?v=n6NPtWs6Cvc) · [Open circuit in Tinkercad](https://www.tinkercad.com/things/3JhxidDXPrc-parnik)
 
 ## Circuit
 

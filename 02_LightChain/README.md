@@ -10,7 +10,7 @@ all blink, one by one, reverse, random "candle" effect and wave.
 
 [![Video](https://img.youtube.com/vi/N4ACMPCPnNw/hqdefault.jpg)](https://www.youtube.com/watch?v=N4ACMPCPnNw)
 
-▶️ [Watch on YouTube](https://www.youtube.com/watch?v=N4ACMPCPnNw)
+[Watch on YouTube](https://www.youtube.com/watch?v=N4ACMPCPnNw)
 
 ## Circuit
 

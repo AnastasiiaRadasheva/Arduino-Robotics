@@ -10,7 +10,7 @@ Custom icons (sun, cloud, rain, snow, heart) change based on temperature and lig
 
 [![Video](https://img.youtube.com/vi/C32qWZ_rbdQ/hqdefault.jpg)](https://www.youtube.com/watch?v=C32qWZ_rbdQ)
 
-▶️ [Watch on YouTube](https://www.youtube.com/watch?v=C32qWZ_rbdQ) · 🔌 [Open circuit in Tinkercad](https://www.tinkercad.com/things/4rjGn3Jzgcw-cool-luulia)
+[Watch on YouTube](https://www.youtube.com/watch?v=C32qWZ_rbdQ) · [Open circuit in Tinkercad](https://www.tinkercad.com/things/4rjGn3Jzgcw-cool-luulia)
 
 ## Circuit
 

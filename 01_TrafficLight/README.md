@@ -11,7 +11,7 @@ When one light is green, the other is red. Before switching, the green light bli
 
 [![Video](https://img.youtube.com/vi/2yGatcYg2lg/hqdefault.jpg)](https://www.youtube.com/watch?v=2yGatcYg2lg)
 
-▶️ [Watch on YouTube](https://www.youtube.com/watch?v=2yGatcYg2lg) · 🔌 [Open circuit in Tinkercad](https://www.tinkercad.com/things/at1yhOO9w9y-swanky-snaget)
+[Watch on YouTube](https://www.youtube.com/watch?v=2yGatcYg2lg) · [Open circuit in Tinkercad](https://www.tinkercad.com/things/at1yhOO9w9y-swanky-snaget)
 
 ## Circuit
 

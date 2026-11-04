@@ -12,7 +12,7 @@ A servo lifts the barrier, the LCD shows free spots, and an RGB LED shows the st
 
 [![Video](https://img.youtube.com/vi/YxrtW7DX4O4/hqdefault.jpg)](https://www.youtube.com/watch?v=YxrtW7DX4O4)
 
-▶️ [Watch on YouTube](https://www.youtube.com/watch?v=YxrtW7DX4O4) · 🔌 [Open circuit in Tinkercad](https://www.tinkercad.com/things/1aF3IYebQu9-super-waasa)
+[Watch on YouTube](https://www.youtube.com/watch?v=YxrtW7DX4O4) · [Open circuit in Tinkercad](https://www.tinkercad.com/things/1aF3IYebQu9-super-waasa)
 
 ## Circuit
 
